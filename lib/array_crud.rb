@@ -43,5 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 ["Joel", "Abraham", "Martin"]
-update_element_from_index
+update_element_from_index=
 end
